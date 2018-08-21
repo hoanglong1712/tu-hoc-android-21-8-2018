@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">chapter1</string>
+    <string name="x">X</string>
+    <string name="o">O</string>
+    <string name="turn">%1$s\'s</string>
+    <string name="winner">%1$s Won</string>
+    <string name="draw">It\'s a Draw</string>
+</resources>
